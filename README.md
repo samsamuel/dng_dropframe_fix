@@ -13,6 +13,8 @@ Download the .go file, and copy it into the affected/broken DNG sequence folder.
 
 Run the script over and over again until you no longer recieve messages about new files being created. Should only take 3 or 4 runs. 
 
+The script assumes your first file has this as a suffix - 000000.dng, and counts up from there.
+
 I shouldn't have to say this, but please backup your footage before you run this script. 
 
 Inspired by: JETHRO_THE_POTHOLE_FILLER / Jethro's Pothole Filler, a VB script that does the same thing, but I couldn't get it to run on my Windows 10 machine. 
