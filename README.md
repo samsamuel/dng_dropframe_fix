@@ -7,7 +7,7 @@ Better than nothing!
 
 ## Usage:
 
-Install Go, if you haven't already. 
+Install [Go](https://golang.org/doc/install), if you haven't already. 
 
 Download the .go file, and copy it into the affected/broken DNG sequence folder. Run the script in your terminal of choice with "go run dng_dropframe_fix.go"
 
