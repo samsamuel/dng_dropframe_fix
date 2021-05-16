@@ -7,4 +7,6 @@ I guess I wasn't using a fast enough SD card in my BMPCC OG to record BRAW, so I
 
 Drop the go script into the DNG sequence folder. Run the script in your terminal of choice with "go run dng_dropframe_fix.go"
 
+Run the script over and over again until you no longer recieve messages about new files being created. Should only take 3 or 4 runs. 
+
 Oh yea, you need to have Go installed.
